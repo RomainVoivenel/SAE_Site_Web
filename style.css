@@ -1,0 +1,43 @@
+.onglet{
+    text-align: center;
+    padding: 2%;
+    border: black solid 1px;
+    flex-basis: 100%;
+    flex-grow: 1;
+}
+.onglet>ul>li{
+    text-align: center;
+    padding: 2%;
+    border: black solid 1px;
+    flex-basis: 100%;
+    flex-grow: 1;
+
+}
+.onglet>ul {
+    display: flex;
+    flex-wrap: nowrap;
+}
+nav{
+    margin-right: 2%;
+}
+li{
+    list-style-type: none;
+}
+ul>li>a{
+    color: black;
+    text-decoration:none;
+}
+nav>ul>li:hover{
+    background-color: #c97efd;
+}
+header{
+    padding-top: 3%;
+}
+footer{
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    position: relative;
+}

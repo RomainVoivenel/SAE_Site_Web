@@ -6,7 +6,7 @@
 
 - Clément Sevestre
 
-- 
+- Mohamed-Amine Yahyaoui
 
 ## Les liens utilisés
 
@@ -14,11 +14,17 @@
 
 https://www.welcometothejungle.com/fr/pages/companies-informatique
 
-https://candidat.pole-emploi.fr/offres/recherche/detail/167ZWYR
-
 https://candidat.pole-emploi.fr/offres/emploi/developpeur-informatique/s28m1
 
+__La fournée dorée__
+
+https://candidat.pole-emploi.fr/offres/recherche/detail/167ZBKD
+
+__Le CNRS__
+
 https://www.cnrs.fr/fr
+
+https://candidat.pole-emploi.fr/offres/recherche/detail/167ZWYR
 
 *Informaticien :*
 
