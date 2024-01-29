@@ -1,5 +1,13 @@
 # SAE_Site_Web
 
+## Grouge 6
+
+- Romain Voivenel
+
+- Clément Sevestre
+
+- 
+
 ## Les liens utilisés
 
 *Recherche d'entreprises :*
@@ -7,6 +15,8 @@
 https://www.welcometothejungle.com/fr/pages/companies-informatique
 
 https://candidat.pole-emploi.fr/offres/recherche/detail/167ZWYR
+
+https://candidat.pole-emploi.fr/offres/emploi/developpeur-informatique/s28m1
 
 https://www.cnrs.fr/fr
 
