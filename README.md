@@ -18,6 +18,8 @@ https://candidat.pole-emploi.fr/offres/emploi/developpeur-informatique/s28m1
 
 __La fournée dorée__
 
+https://www.lafourneedoree.fr/
+
 https://candidat.pole-emploi.fr/offres/recherche/detail/167ZBKD
 
 __Le CNRS__
