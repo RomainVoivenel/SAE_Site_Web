@@ -128,3 +128,17 @@ main>article{
     border: black solid 1px;
     border-radius: 30px;
 }
+
+main>h3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+main>p{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 90px;
+}
